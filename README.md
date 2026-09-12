@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Sudhanshu Shekhar Jha — banner"/>
+<img src="./hero.png" width="100%" alt="Sudhanshu Shekhar Jha — banner"/>
 
 <br/><br/>
 
@@ -206,15 +206,15 @@ There is a lot more I want to learn — and that's exactly what makes building e
 
 I'm always interested in connecting with people who are passionate about **AI, software engineering, hackathons, open source, healthcare technology, and building useful products.**
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-sudhanshu--shekhar--jha.me-0f0c29?style=for-the-badge&labelColor=00F5D4&color=0f0c29)](https://sudhanshu-shekhar-jha.me)
-[![GitHub](https://img.shields.io/badge/GitHub-sudhanshu25099--code-00F5D4?style=for-the-badge&logo=github&logoColor=0f0c29&labelColor=0f0c29)](https://github.com/sudhanshu25099-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00F5D4?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29)](#)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-00F5D4?style=for-the-badge&logo=gmail&logoColor=0f0c29&labelColor=0f0c29)](#)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-sudhanshu--shekhar--jha.me-c81e1e?style=for-the-badge&labelColor=111111&color=c81e1e)](https://sudhanshu-shekhar-jha.me)
+[![GitHub](https://img.shields.io/badge/GitHub-sudhanshu25099--code-c81e1e?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/sudhanshu25099-code)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c81e1e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](#)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-c81e1e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](#)
 
 ### 🌟 Build. Break. Learn. Improve. Repeat.
 
 **Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:c81e1e,100:111111&height=120&section=footer" width="100%"/>
 
 </div>
