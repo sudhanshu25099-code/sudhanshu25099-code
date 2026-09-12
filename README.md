@@ -6,8 +6,8 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-sudhanshu--shekhar--jha.me-c81e1e?style=for-the-badge&labelColor=111111&color=c81e1e)](https://sudhanshu-shekhar-jha.me)
 [![GitHub](https://img.shields.io/badge/GitHub-sudhanshu25099--code-c81e1e?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/sudhanshu25099-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c81e1e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](#)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-c81e1e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c81e1e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/sudhanshu-shekhar-jha-b0aaa9377/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-c81e1e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](mailto:sudhanshushekharjha2007@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=sudhanshu25099-code&label=PROFILE%20VIEWS&color=c81e1e&style=for-the-badge" />
 
@@ -208,8 +208,8 @@ I'm always interested in connecting with people who are passionate about **AI, s
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-sudhanshu--shekhar--jha.me-c81e1e?style=for-the-badge&labelColor=111111&color=c81e1e)](https://sudhanshu-shekhar-jha.me)
 [![GitHub](https://img.shields.io/badge/GitHub-sudhanshu25099--code-c81e1e?style=for-the-badge&logo=github&logoColor=white&labelColor=111111)](https://github.com/sudhanshu25099-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c81e1e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](#)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-c81e1e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-c81e1e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111)](https://www.linkedin.com/in/sudhanshu-shekhar-jha-b0aaa9377/)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-c81e1e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111)](mailto:sudhanshushekharjha2007@gmail.com)
 
 ### 🌟 Build. Break. Learn. Improve. Repeat.
 
