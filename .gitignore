@@ -1,0 +1,8 @@
+# Ignore all files and folders by default
+*
+
+# Whitelist required files
+!.gitignore
+!readme.md
+!README.md
+!hero-banner.png
