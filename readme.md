@@ -89,11 +89,37 @@ request  →  asgi middleware  →  postgres (rule lookup)  →  redis lua (coun
 
 ## 04 &nbsp; Stack
 
-- **AI & Generative:** Llama 3.3, Groq, Gemini API, NLP, RAG, Embeddings, HL7 FHIR R4
-- **Web & Backend:** FastAPI, Flask, React 19, Next.js, Streamlit, Tailwind CSS
-- **Data & Infrastructure:** PostgreSQL, MySQL, Redis, SQLAlchemy, Docker, Git
+### AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="38" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Llama_3.3-0467DF?style=for-the-badge&logo=meta&logoColor=white" height="38" alt="Llama 3.3"/>&nbsp;
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" height="38" alt="Groq"/>&nbsp;
+  <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" height="38" alt="Gemini API"/>&nbsp;
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge" height="38" alt="NLP"/>&nbsp;
+  <img src="https://img.shields.io/badge/HL7_FHIR_R4-E31837?style=for-the-badge" height="38" alt="HL7 FHIR R4"/>
+</p>
 
-Healthcare work runs through HL7 FHIR R4 bundles and ABDM-aligned records, with Web Speech and OCR at the intake edge.
+### Web & Backend
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="38" alt="FastAPI"/>&nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="38" alt="Flask"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="38" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="38" alt="Next.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="38" alt="Streamlit"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="38" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="38" alt="Tailwind CSS"/>
+</p>
+
+### Databases & DevOps
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="38" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="38" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="38" alt="Redis"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="38" alt="SQLite"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" height="38" alt="SQLAlchemy"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="38" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="38" alt="Git"/>
+</p>
 
 ## 05 &nbsp; GitHub Activity
 
